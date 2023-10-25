@@ -6,6 +6,11 @@ This project is a web-based car rental service that provides users with the abil
 
 ## Usage
 
+- React
+- TailwindCSS
+
+## Usage
+
 To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`

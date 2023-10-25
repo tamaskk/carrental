@@ -4,7 +4,7 @@
 
 This project is a web-based car rental service that provides users with the ability to book various car types for specific pickup and drop-off locations and dates. It also offers recommendations, detailed vehicle information, and user testimonials, giving users a comprehensive experience.
 
-## Usage
+## Made with
 
 - React
 - TailwindCSS

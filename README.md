@@ -1,4 +1,4 @@
-# Project Name
+# Car rental
 
 ## Project Overview
 
@@ -71,3 +71,12 @@ If you'd like to contribute to the project, please follow these guidelines:
 3. Commit your changes: `git commit -m 'Added feature-name'`
 4. Push to the branch: `git push origin feature-name`
 5. Create a pull request.
+
+## Screenshots
+
+![Screenshot 1](/src/assets/screenshots_and_logo/1.png)
+![Screenshot 2](/src/assets/screenshots_and_logo/2.png)
+![Screenshot 3](/src/assets/screenshots_and_logo/3.png)
+![Screenshot 4](/src/assets/screenshots_and_logo/4.png)
+![Screenshot 5](/src/assets/screenshots_and_logo/5.png)
+![Screenshot 6](/src/assets/screenshots_and_logo/6.png)

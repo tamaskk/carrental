@@ -15,8 +15,8 @@ This project is a web-based car rental service that provides users with the abil
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/your-username/carrental.git`
+2. Navigate to the project directory: `cd carrental`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit `http://localhost:3000`
